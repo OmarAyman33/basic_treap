@@ -2,6 +2,7 @@
 
 A minimal templated C++ Treap supporting fast insert, erase, search, split, and range queries.  
 It maintains BST order by key and heap order by priority for expected `O(log n)` operations.
+
 This Treap does not use lazy propagation and implicit indexing(whatever that means). 
 ## Features
 - Templated Treap structure
